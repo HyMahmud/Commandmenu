@@ -11,4 +11,5 @@
 [![discord badge](https://img.shields.io/discord/973507705689997322?label=discord&color=9089DA&logo=discord&style=for-the-badge)](https://discord.gg/tRg4ytQEVC)
 [![downloads](https://img.shields.io/github/downloads/HyMahmud/Commandmenu/total?label=downloads&color=208a19&logo=github&style=for-the-badge)](https://github.com/HyMahmud/Commandmenu/releases)
 </div>
-<img src="https://i.imgur.com/jjCMWfq.jpg"/>
+This Old <img src="https://i.imgur.com/jjCMWfq.jpg"/>
+This New <img src="https://i.imgur.com/VtlND8t.jpg"/>
